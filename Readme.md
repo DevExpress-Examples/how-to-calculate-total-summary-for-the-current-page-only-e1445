@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/E1445/Default.aspx) (VB: [Default.aspx.vb](./VB/E1445/Default.aspx.vb))
+* [Default.aspx.cs](./CS/E1445/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/E1445/Default.aspx.vb))
+<!-- default file list end -->
 # How to calculate total summary for the current page only
 
 
